@@ -1,0 +1,232 @@
+2016/01/25 08:33:40 INFO  - jmeter.util.JMeterUtils: Setting Locale to pl_PL 
+2016/01/25 08:33:41 INFO  - jmeter.util.JMeterUtils: Could not find resources for 'pl_PL', using 'pl' 
+2016/01/25 08:33:41 INFO  - jmeter.JMeter: Loading user properties from: C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin\user.properties 
+2016/01/25 08:33:41 INFO  - jmeter.JMeter: Loading system properties from: C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin\system.properties 
+2016/01/25 08:33:41 INFO  - jmeter.JMeter: Copyright (c) 1998-2015 The Apache Software Foundation 
+2016/01/25 08:33:41 INFO  - jmeter.JMeter: Version 2.13 r1665067 
+2016/01/25 08:33:41 INFO  - jmeter.JMeter: java.version=1.8.0_71 
+2016/01/25 08:33:41 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2016/01/25 08:33:41 INFO  - jmeter.JMeter: os.name=Windows 7 
+2016/01/25 08:33:41 INFO  - jmeter.JMeter: os.arch=amd64 
+2016/01/25 08:33:41 INFO  - jmeter.JMeter: os.version=6.1 
+2016/01/25 08:33:41 INFO  - jmeter.JMeter: file.encoding=Cp1250 
+2016/01/25 08:33:41 INFO  - jmeter.JMeter: Default Locale=polski (Polska) 
+2016/01/25 08:33:41 INFO  - jmeter.JMeter: JMeter  Locale=polski (Polska) 
+2016/01/25 08:33:41 INFO  - jmeter.JMeter: JMeterHome=C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13 
+2016/01/25 08:33:41 INFO  - jmeter.JMeter: user.dir  =C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin 
+2016/01/25 08:33:41 INFO  - jmeter.JMeter: PWD       =C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin 
+2016/01/25 08:33:41 INFO  - jmeter.JMeter: IP: 172.30.52.195 Name: LENOVO-B50-70 FullName: LENOVO-B50-70.PRACOWNIA.LOCAL 
+2016/01/25 08:33:42 INFO  - jmeter.gui.action.LookAndFeelCommand: Using look and feel: javax.swing.plaf.metal.MetalLookAndFeel [Metal, CrossPlatform] 
+2016/01/25 08:33:42 INFO  - jmeter.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties 
+2016/01/25 08:33:45 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2016/01/25 08:33:45 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2016/01/25 08:33:48 INFO  - jmeter.util.BSFTestElement: Registering JMeter version of JavaScript engine as work-round for BSF-22 
+2016/01/25 08:33:49 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Cannot find .className property for htmlParser, using default 
+2016/01/25 08:33:49 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is  
+2016/01/25 08:33:49 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is  
+2016/01/25 08:33:49 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is  
+2016/01/25 08:33:49 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is  
+2016/01/25 08:33:49 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2016/01/25 08:33:49 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.http.control.gui.WebServiceSamplerGui 
+2016/01/25 08:33:49 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.http.modifier.gui.ParamModifierGui 
+2016/01/25 08:33:50 INFO  - jorphan.exec.KeyToolUtils: keytool found at 'C:\Program Files\Java\jre1.8.0_71\bin\keytool' 
+2016/01/25 08:33:50 INFO  - jmeter.protocol.http.proxy.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin\proxyserver.jks 
+2016/01/25 08:33:51 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2016/01/25 08:33:51 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2016/01/25 08:33:51 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
+2016/01/25 08:33:51 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2016/01/25 08:34:15 INFO  - jmeter.services.FileServer: Default base='C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin' 
+2016/01/25 08:34:15 INFO  - jmeter.gui.action.Load: Loading file: C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin\HTTP(S) Test Script Recorder.jmx 
+2016/01/25 08:34:15 INFO  - jmeter.services.FileServer: Set new base='C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin' 
+2016/01/25 08:34:15 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2016/01/25 08:34:15 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
+2016/01/25 08:34:15 INFO  - jmeter.save.SaveService: Using SaveService properties file version 1656252 
+2016/01/25 08:34:15 INFO  - jmeter.save.SaveService: Using SaveService properties version 2.8 
+2016/01/25 08:34:15 INFO  - jmeter.save.SaveService: All converter versions present and correct 
+2016/01/25 08:34:15 INFO  - jmeter.save.SaveService: Loading file: C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin\HTTP(S) Test Script Recorder.jmx 
+2016/01/25 08:34:16 INFO  - jmeter.services.FileServer: Set new base='C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin' 
+2016/01/25 08:36:34 INFO  - jmeter.util.JMeterUtils: Setting Locale to en 
+2016/01/25 08:38:19 INFO  - jmeter.protocol.http.proxy.ProxyControl: Creating Proxy CA in C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin\proxyserver.jks 
+2016/01/25 08:39:08 INFO  - jmeter.protocol.http.proxy.ProxyControl: Created keystore in C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin\proxyserver.jks 
+2016/01/25 08:39:08 INFO  - jmeter.protocol.http.proxy.Daemon: Creating Daemon Socket on port: 8080 
+2016/01/25 08:39:08 INFO  - jmeter.protocol.http.proxy.Daemon: Test Script Recorder up and running! 
+2016/01/25 08:40:38 INFO  - jmeter.protocol.http.proxy.Proxy: Proxy will remove the headers: If-Modified-Since,If-None-Match,Host 
+2016/01/25 08:40:39 INFO  - jmeter.protocol.http.proxy.ProxyControl: [4044] Creating entry tiles.services.mozilla.com in C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin\proxyserver.jks 
+2016/01/25 08:40:41 INFO  - jmeter.protocol.http.sampler.HTTPHCAbstractImpl: Local host = LENOVO-B50-70 
+2016/01/25 08:40:41 INFO  - jmeter.protocol.http.sampler.HTTPHC4Impl: HTTP request retry count = 0 
+2016/01/25 08:40:41 INFO  - jmeter.protocol.http.sampler.HTTPHC4Impl: Setting up HTTPS TrustAll scheme 
+2016/01/25 08:40:41 INFO  - jmeter.util.JsseSSLManager: Using default SSL protocol: TLS 
+2016/01/25 08:40:41 INFO  - jmeter.util.JsseSSLManager: SSL session context: per-thread 
+2016/01/25 08:40:42 INFO  - jmeter.protocol.http.proxy.FormCharSetFinder: Using htmlparser version: 2.0 (Release Build Sep 17, 2006) 
+2016/01/25 08:40:43 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2016/01/25 08:41:10 INFO  - jmeter.protocol.http.proxy.ProxyControl: [4051] Creating entry a.wpimg.pl in C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin\proxyserver.jks 
+2016/01/25 08:41:10 INFO  - jmeter.protocol.http.proxy.Proxy: [4044] KeyStore for SSL loaded OK and put host 'tiles.services.mozilla.com' in map with key (tiles.services.mozilla.com) 
+2016/01/25 08:41:11 WARN  - jmeter.protocol.http.proxy.Proxy: [4044] Problem with SSL certificate for 'tiles.services.mozilla.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/25 08:41:41 INFO  - jmeter.protocol.http.proxy.ProxyControl: [4045] Creating entry y.wpimg.pl in C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin\proxyserver.jks 
+2016/01/25 08:41:41 INFO  - jmeter.protocol.http.proxy.Proxy: [4051] KeyStore for SSL loaded OK and put host 'a.wpimg.pl' in map with key (a.wpimg.pl) 
+2016/01/25 08:41:42 WARN  - jmeter.protocol.http.proxy.Proxy: [4051] Problem with SSL certificate for 'a.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:41:43 WARN  - jmeter.protocol.http.proxy.HttpRequestHdr: Url 'http://rek.www.wp.pl/g/fsc.gif?232303,4c727055666c5673647a49414448694f,014|068|018|067|092|008|060|061|062|063|064|065|066|078|079|080|081|083|087|097|088,139a1aa0ebed511aeaafa6cf6b699512' contains unsafe characters, will escape it, message:Illegal character in query at index 74: http://rek.www.wp.pl/g/fsc.gif?232303,4c727055666c5673647a49414448694f,014|068|018|067|092|008|060|061|062|063|064|065|066|078|079|080|081|083|087|097|088,139a1aa0ebed511aeaafa6cf6b699512 
+2016/01/25 08:42:16 INFO  - jmeter.protocol.http.proxy.ProxyControl: [4049] Creating entry 5-edge-chat.facebook.com in C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin\proxyserver.jks 
+2016/01/25 08:42:17 INFO  - jmeter.protocol.http.proxy.Proxy: [4045] KeyStore for SSL loaded OK and put host 'y.wpimg.pl' in map with key (y.wpimg.pl) 
+2016/01/25 08:42:17 WARN  - jmeter.protocol.http.proxy.Proxy: [4045] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:42:17 WARN  - jmeter.protocol.http.proxy.Proxy: [4185] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:42:17 WARN  - jmeter.protocol.http.proxy.Proxy: [4184] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Connection reset 
+2016/01/25 08:42:17 WARN  - jmeter.protocol.http.proxy.Proxy: [4182] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/25 08:42:17 WARN  - jmeter.protocol.http.proxy.Proxy: [4181] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:42:17 WARN  - jmeter.protocol.http.proxy.Proxy: [4183] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:42:17 WARN  - jmeter.protocol.http.proxy.Proxy: [4189] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Connection reset 
+2016/01/25 08:42:17 WARN  - jmeter.protocol.http.proxy.Proxy: [4186] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/25 08:42:17 WARN  - jmeter.protocol.http.proxy.Proxy: [4188] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/25 08:42:17 WARN  - jmeter.protocol.http.proxy.Proxy: [4187] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/25 08:42:17 WARN  - jmeter.protocol.http.proxy.Proxy: [4190] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/25 08:42:17 WARN  - jmeter.protocol.http.proxy.Proxy: [4192] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/25 08:42:17 WARN  - jmeter.protocol.http.proxy.Proxy: [4194] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/25 08:42:17 WARN  - jmeter.protocol.http.proxy.Proxy: [4191] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Connection reset 
+2016/01/25 08:42:17 WARN  - jmeter.protocol.http.proxy.Proxy: [4195] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:42:17 WARN  - jmeter.protocol.http.proxy.Proxy: [4193] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:42:17 WARN  - jmeter.protocol.http.proxy.Proxy: [4196] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/25 08:42:17 WARN  - jmeter.protocol.http.proxy.Proxy: [4198] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Connection reset 
+2016/01/25 08:42:18 WARN  - jmeter.protocol.http.proxy.Proxy: [4197] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Connection reset 
+2016/01/25 08:42:18 WARN  - jmeter.protocol.http.proxy.Proxy: [4202] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/25 08:42:18 WARN  - jmeter.protocol.http.proxy.Proxy: [4200] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/25 08:42:18 WARN  - jmeter.protocol.http.proxy.Proxy: [4201] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Connection reset 
+2016/01/25 08:42:18 WARN  - jmeter.protocol.http.proxy.Proxy: [4199] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Connection reset 
+2016/01/25 08:42:18 WARN  - jmeter.protocol.http.proxy.Proxy: [4203] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Connection reset 
+2016/01/25 08:42:26 WARN  - jmeter.protocol.http.proxy.Proxy: [4205] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/25 08:42:26 WARN  - jmeter.protocol.http.proxy.Proxy: [4206] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/25 08:42:26 WARN  - jmeter.protocol.http.proxy.Proxy: [4207] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/25 08:42:27 WARN  - jmeter.protocol.http.proxy.Proxy: [4208] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/25 08:42:27 WARN  - jmeter.protocol.http.proxy.Proxy: [4210] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Connection reset 
+2016/01/25 08:42:27 WARN  - jmeter.protocol.http.proxy.Proxy: [4209] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/25 08:42:47 INFO  - jmeter.protocol.http.proxy.ProxyControl: [4046] Creating entry www.google.com in C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin\proxyserver.jks 
+2016/01/25 08:42:48 INFO  - jmeter.protocol.http.proxy.Proxy: [4049] KeyStore for SSL loaded OK and put host '5-edge-chat.facebook.com' in map with key (5-edge-chat.facebook.com) 
+2016/01/25 08:42:48 WARN  - jmeter.protocol.http.proxy.Proxy: [4049] Problem with SSL certificate for '5-edge-chat.facebook.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:42:53 WARN  - jmeter.protocol.http.proxy.Proxy: [4215] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/25 08:42:53 WARN  - jmeter.protocol.http.proxy.Proxy: [4214] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Connection reset 
+2016/01/25 08:42:53 WARN  - jmeter.protocol.http.proxy.Proxy: [4216] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/25 08:42:53 WARN  - jmeter.protocol.http.proxy.Proxy: [4218] Problem with SSL certificate for 'y.wpimg.pl'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/25 08:42:59 WARN  - jmeter.protocol.http.proxy.HttpRequestHdr: Url 'http://rek.www.wp.pl/g/fsc.gif?753,4c727055666c5673647a49414448694f,010|005|080|081|082|083|084|085|006,139a1aa0ebed511aeaafa6cf6b699512' contains unsafe characters, will escape it, message:Illegal character in query at index 71: http://rek.www.wp.pl/g/fsc.gif?753,4c727055666c5673647a49414448694f,010|005|080|081|082|083|084|085|006,139a1aa0ebed511aeaafa6cf6b699512 
+2016/01/25 08:43:18 INFO  - jmeter.protocol.http.proxy.ProxyControl: [4536] Creating entry syndication.twitter.com in C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin\proxyserver.jks 
+2016/01/25 08:43:18 INFO  - jmeter.protocol.http.proxy.Proxy: [4046] KeyStore for SSL loaded OK and put host 'www.google.com' in map with key (www.google.com) 
+2016/01/25 08:43:18 WARN  - jmeter.protocol.http.proxy.Proxy: [4046] Problem with SSL certificate for 'www.google.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:43:27 WARN  - jmeter.protocol.http.proxy.HttpRequestHdr: Url 'http://rek.www.wp.pl/g/fsc.gif?753,4c727055666c5673647a49414448694f,010|005|080|081|082|083|084|085|006,139a1aa0ebed511aeaafa6cf6b699512' contains unsafe characters, will escape it, message:Illegal character in query at index 71: http://rek.www.wp.pl/g/fsc.gif?753,4c727055666c5673647a49414448694f,010|005|080|081|082|083|084|085|006,139a1aa0ebed511aeaafa6cf6b699512 
+2016/01/25 08:43:33 WARN  - jmeter.protocol.http.proxy.HttpRequestHdr: Url 'http://rek.www.wp.pl/g/fsc.gif?753,4c727055666c5673647a49414448694f,010|005|080|081|082|083|084|085|006,139a1aa0ebed511aeaafa6cf6b699512' contains unsafe characters, will escape it, message:Illegal character in query at index 71: http://rek.www.wp.pl/g/fsc.gif?753,4c727055666c5673647a49414448694f,010|005|080|081|082|083|084|085|006,139a1aa0ebed511aeaafa6cf6b699512 
+2016/01/25 08:43:38 WARN  - jmeter.protocol.http.proxy.HttpRequestHdr: Url 'http://rek.www.wp.pl/g/fsc.gif?753,4c727055666c5673647a49414448694f,010|037|005|080|081|082|083|084|085|006,139a1aa0ebed511aeaafa6cf6b699512' contains unsafe characters, will escape it, message:Illegal character in query at index 71: http://rek.www.wp.pl/g/fsc.gif?753,4c727055666c5673647a49414448694f,010|037|005|080|081|082|083|084|085|006,139a1aa0ebed511aeaafa6cf6b699512 
+2016/01/25 08:43:49 INFO  - jmeter.protocol.http.proxy.ProxyControl: [4533] Creating entry googleads.g.doubleclick.net in C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin\proxyserver.jks 
+2016/01/25 08:43:49 INFO  - jmeter.protocol.http.proxy.Proxy: [4536] KeyStore for SSL loaded OK and put host 'syndication.twitter.com' in map with key (syndication.twitter.com) 
+2016/01/25 08:43:49 WARN  - jmeter.protocol.http.proxy.Proxy: [4536] Problem with SSL certificate for 'syndication.twitter.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:44:19 INFO  - jmeter.protocol.http.proxy.ProxyControl: [4527] Creating entry connect.facebook.net in C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin\proxyserver.jks 
+2016/01/25 08:44:19 INFO  - jmeter.protocol.http.proxy.Proxy: [4533] KeyStore for SSL loaded OK and put host 'googleads.g.doubleclick.net' in map with key (googleads.g.doubleclick.net) 
+2016/01/25 08:44:19 WARN  - jmeter.protocol.http.proxy.Proxy: [4533] Problem with SSL certificate for 'googleads.g.doubleclick.net'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:44:40 INFO  - jmeter.engine.StandardJMeterEngine: Listeners will be started after enabling running version 
+2016/01/25 08:44:40 INFO  - jmeter.engine.StandardJMeterEngine: To revert to the earlier behaviour, define jmeterengine.startlistenerslater=false 
+2016/01/25 08:44:40 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2016/01/25 08:44:40 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2016/01/25 08:44:40 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(true,*local*) 
+2016/01/25 08:44:41 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group 
+2016/01/25 08:44:41 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Thread Group. 
+2016/01/25 08:44:41 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2016/01/25 08:44:41 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 1 threads 1 ramp-up 1 perThread 1000.0 delayedStart=false 
+2016/01/25 08:44:41 INFO  - jmeter.threads.JMeterThread: jmeterthread.startearlier=true (see jmeter.properties) 
+2016/01/25 08:44:41 INFO  - jmeter.threads.JMeterThread: Running PostProcessors in forward order 
+2016/01/25 08:44:41 INFO  - jmeter.threads.ThreadGroup: Started thread group number 1 
+2016/01/25 08:44:41 INFO  - jmeter.engine.StandardJMeterEngine: All thread groups have been started 
+2016/01/25 08:44:41 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-1 
+2016/01/25 08:44:43 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-1 
+2016/01/25 08:44:43 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-1 
+2016/01/25 08:44:43 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2016/01/25 08:44:43 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(false,*local*) 
+2016/01/25 08:44:49 INFO  - jmeter.protocol.http.proxy.Proxy: [4527] KeyStore for SSL loaded OK and put host 'connect.facebook.net' in map with key (connect.facebook.net) 
+2016/01/25 08:44:49 INFO  - jmeter.protocol.http.proxy.ProxyControl: [4514] Creating entry 0-edge-chat.facebook.com in C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin\proxyserver.jks 
+2016/01/25 08:44:49 WARN  - jmeter.protocol.http.proxy.Proxy: [4527] Problem with SSL certificate for 'connect.facebook.net'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:45:19 INFO  - jmeter.protocol.http.proxy.ProxyControl: [4513] Creating entry safebrowsing.google.com in C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin\proxyserver.jks 
+2016/01/25 08:45:19 INFO  - jmeter.protocol.http.proxy.Proxy: [4514] KeyStore for SSL loaded OK and put host '0-edge-chat.facebook.com' in map with key (0-edge-chat.facebook.com) 
+2016/01/25 08:45:19 WARN  - jmeter.protocol.http.proxy.Proxy: [4514] Problem with SSL certificate for '0-edge-chat.facebook.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:45:32 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2016/01/25 08:45:32 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2016/01/25 08:45:32 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(true,*local*) 
+2016/01/25 08:45:32 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group 
+2016/01/25 08:45:32 INFO  - jmeter.engine.StandardJMeterEngine: Starting 5 threads for group Thread Group. 
+2016/01/25 08:45:32 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2016/01/25 08:45:32 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 1 threads 5 ramp-up 1 perThread 200.0 delayedStart=false 
+2016/01/25 08:45:32 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-1 
+2016/01/25 08:45:32 INFO  - jmeter.threads.ThreadGroup: Started thread group number 1 
+2016/01/25 08:45:32 INFO  - jmeter.engine.StandardJMeterEngine: All thread groups have been started 
+2016/01/25 08:45:32 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-2 
+2016/01/25 08:45:32 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-3 
+2016/01/25 08:45:33 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-4 
+2016/01/25 08:45:33 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-5 
+2016/01/25 08:45:50 INFO  - jmeter.protocol.http.proxy.Proxy: [4513] KeyStore for SSL loaded OK and put host 'safebrowsing.google.com' in map with key (safebrowsing.google.com) 
+2016/01/25 08:45:50 INFO  - jmeter.protocol.http.proxy.ProxyControl: [4423] Creating entry pl1-sst.sensic.net in C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin\proxyserver.jks 
+2016/01/25 08:45:51 WARN  - jmeter.protocol.http.proxy.Proxy: [4513] Problem with SSL certificate for 'safebrowsing.google.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:46:22 INFO  - jmeter.protocol.http.proxy.ProxyControl: [4213] Creating entry 6-edge-chat.facebook.com in C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin\proxyserver.jks 
+2016/01/25 08:46:22 INFO  - jmeter.protocol.http.proxy.Proxy: [4423] KeyStore for SSL loaded OK and put host 'pl1-sst.sensic.net' in map with key (pl1-sst.sensic.net) 
+2016/01/25 08:46:22 WARN  - jmeter.protocol.http.proxy.Proxy: [4423] Problem with SSL certificate for 'pl1-sst.sensic.net'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:46:53 INFO  - jmeter.protocol.http.proxy.Proxy: [4213] KeyStore for SSL loaded OK and put host '6-edge-chat.facebook.com' in map with key (6-edge-chat.facebook.com) 
+2016/01/25 08:46:53 INFO  - jmeter.protocol.http.proxy.ProxyControl: [4088] Creating entry platform.twitter.com in C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin\proxyserver.jks 
+2016/01/25 08:46:53 WARN  - jmeter.protocol.http.proxy.Proxy: [4213] Problem with SSL certificate for '6-edge-chat.facebook.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:46:53 WARN  - jmeter.protocol.http.proxy.Proxy: [4093] Problem with SSL certificate for 'connect.facebook.net'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:46:53 WARN  - jmeter.protocol.http.proxy.Proxy: [4177] Problem with SSL certificate for '5-edge-chat.facebook.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:47:22 INFO  - jmeter.protocol.http.proxy.Proxy: [4088] KeyStore for SSL loaded OK and put host 'platform.twitter.com' in map with key (platform.twitter.com) 
+2016/01/25 08:47:22 WARN  - jmeter.protocol.http.proxy.Proxy: [4088] Problem with SSL certificate for 'platform.twitter.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:47:22 WARN  - jmeter.protocol.http.proxy.Proxy: [4839] Problem with SSL certificate for 'googleads.g.doubleclick.net'? Ensure browser is set to accept the JMeter proxy cert: Connection reset 
+2016/01/25 08:47:22 WARN  - jmeter.protocol.http.proxy.Proxy: [4758] Problem with SSL certificate for 'googleads.g.doubleclick.net'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:47:22 WARN  - jmeter.protocol.http.proxy.Proxy: [4835] Problem with SSL certificate for 'connect.facebook.net'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:47:22 WARN  - jmeter.protocol.http.proxy.Proxy: [4753] Problem with SSL certificate for 'connect.facebook.net'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:47:22 WARN  - jmeter.protocol.http.proxy.Proxy: [4834] Problem with SSL certificate for 'googleads.g.doubleclick.net'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:47:22 WARN  - jmeter.protocol.http.proxy.Proxy: [4837] Problem with SSL certificate for 'syndication.twitter.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:47:22 WARN  - jmeter.protocol.http.proxy.Proxy: [4750] Problem with SSL certificate for 'googleads.g.doubleclick.net'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:47:22 WARN  - jmeter.protocol.http.proxy.Proxy: [4697] Problem with SSL certificate for 'pl1-sst.sensic.net'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:47:22 WARN  - jmeter.protocol.http.proxy.Proxy: [4655] Problem with SSL certificate for 'syndication.twitter.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:47:22 WARN  - jmeter.protocol.http.proxy.Proxy: [4786] Problem with SSL certificate for 'pl1-sst.sensic.net'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:47:22 WARN  - jmeter.protocol.http.proxy.Proxy: [4608] Problem with SSL certificate for 'pl1-sst.sensic.net'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:47:22 WARN  - jmeter.protocol.http.proxy.Proxy: [4638] Problem with SSL certificate for 'platform.twitter.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:48:55 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-4 
+2016/01/25 08:48:55 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-4 
+2016/01/25 08:48:56 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-3 
+2016/01/25 08:48:56 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-3 
+2016/01/25 08:48:56 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-2 
+2016/01/25 08:48:56 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-2 
+2016/01/25 08:48:57 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-1 
+2016/01/25 08:48:57 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-1 
+2016/01/25 08:48:58 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-5 
+2016/01/25 08:48:58 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-5 
+2016/01/25 08:48:58 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2016/01/25 08:48:58 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(false,*local*) 
+2016/01/25 08:50:51 INFO  - jmeter.services.FileServer: Set new base='C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin' 
+2016/01/25 08:51:03 INFO  - jmeter.protocol.http.proxy.ProxyControl: [8920] Creating entry profile.accounts.firefox.com in C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin\proxyserver.jks 
+2016/01/25 08:51:04 WARN  - jmeter.protocol.http.proxy.Proxy: [8929] Problem with SSL certificate for 'pl1-sst.sensic.net'? Ensure browser is set to accept the JMeter proxy cert: Connection reset 
+2016/01/25 08:51:05 WARN  - jmeter.protocol.http.proxy.HttpRequestHdr: Url 'http://adv.wp.pl/RM/ads/adstream_lx.ads/wiadomosci.wp.pl/index.html/L27/1609679893/x29/OasDefault/BusinessClick_Wiadomosci_boks29/2boksy-028.html/4c727055666c5673647a49414448694f?_RM_EMPTY_&%%SCORE%%' contains unsafe characters, will escape it, message:Malformed escape pair at index 190: http://adv.wp.pl/RM/ads/adstream_lx.ads/wiadomosci.wp.pl/index.html/L27/1609679893/x29/OasDefault/BusinessClick_Wiadomosci_boks29/2boksy-028.html/4c727055666c5673647a49414448694f?_RM_EMPTY_&%%SCORE%% 
+2016/01/25 08:51:05 ERROR - jmeter.protocol.http.proxy.HttpRequestHdr: Error escaping URL:'http://adv.wp.pl/RM/ads/adstream_lx.ads/wiadomosci.wp.pl/index.html/L27/1609679893/x29/OasDefault/BusinessClick_Wiadomosci_boks29/2boksy-028.html/4c727055666c5673647a49414448694f?_RM_EMPTY_&%%SCORE%%', message:URLDecoder: Illegal hex characters in escape (%) pattern - For input string: "%S" 
+2016/01/25 08:51:05 WARN  - jmeter.protocol.http.proxy.HttpRequestHdr: Url 'http://rek.www.wp.pl/g/fsc.gif?753,4c727055666c5673647a49414448694f,010|037|005|080|081|082|083|084|085|006,139a1aa0ebed511aeaafa6cf6b699512' contains unsafe characters, will escape it, message:Illegal character in query at index 71: http://rek.www.wp.pl/g/fsc.gif?753,4c727055666c5673647a49414448694f,010|037|005|080|081|082|083|084|085|006,139a1aa0ebed511aeaafa6cf6b699512 
+2016/01/25 08:51:07 WARN  - jmeter.protocol.http.proxy.Proxy: [8990] Problem with SSL certificate for 'safebrowsing.google.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/25 08:51:09 WARN  - jmeter.protocol.http.proxy.Proxy: [8993] Problem with SSL certificate for 'safebrowsing.google.com'? Ensure browser is set to accept the JMeter proxy cert: Connection reset 
+2016/01/25 08:51:33 INFO  - jmeter.protocol.http.proxy.ProxyControl: [8995] Creating entry shavar.services.mozilla.com in C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin\proxyserver.jks 
+2016/01/25 08:51:33 INFO  - jmeter.protocol.http.proxy.Proxy: [8920] KeyStore for SSL loaded OK and put host 'profile.accounts.firefox.com' in map with key (profile.accounts.firefox.com) 
+2016/01/25 08:51:33 WARN  - jmeter.protocol.http.proxy.Proxy: [8920] Problem with SSL certificate for 'profile.accounts.firefox.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:51:35 WARN  - jmeter.protocol.http.proxy.Proxy: [9017] Problem with SSL certificate for 'www.google.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/25 08:52:04 INFO  - jmeter.protocol.http.proxy.ProxyControl: [8994] Creating entry self-repair.mozilla.org in C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin\proxyserver.jks 
+2016/01/25 08:52:04 INFO  - jmeter.protocol.http.proxy.Proxy: [8995] KeyStore for SSL loaded OK and put host 'shavar.services.mozilla.com' in map with key (shavar.services.mozilla.com) 
+2016/01/25 08:52:04 WARN  - jmeter.protocol.http.proxy.Proxy: [8995] Problem with SSL certificate for 'shavar.services.mozilla.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:52:09 WARN  - jmeter.protocol.http.proxy.Proxy: [9040] Problem with SSL certificate for 'safebrowsing.google.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:52:36 INFO  - jmeter.protocol.http.proxy.ProxyControl: [8979] Creating entry secure.adnxs.com in C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin\proxyserver.jks 
+2016/01/25 08:52:36 INFO  - jmeter.protocol.http.proxy.Proxy: [8994] KeyStore for SSL loaded OK and put host 'self-repair.mozilla.org' in map with key (self-repair.mozilla.org) 
+2016/01/25 08:52:36 WARN  - jmeter.protocol.http.proxy.Proxy: [8994] Problem with SSL certificate for 'self-repair.mozilla.org'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:53:04 WARN  - jmeter.protocol.http.proxy.Proxy: [9061] Problem with SSL certificate for 'shavar.services.mozilla.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:53:06 WARN  - jmeter.protocol.http.proxy.Proxy: [9062] Problem with SSL certificate for 'self-repair.mozilla.org'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:53:08 INFO  - jmeter.protocol.http.proxy.ProxyControl: [9038] Creating entry incoming.telemetry.mozilla.org in C:\Users\Pinka\Downloads\apache-jmeter-2.13\apache-jmeter-2.13\apache-jmeter-2.13\bin\proxyserver.jks 
+2016/01/25 08:53:08 INFO  - jmeter.protocol.http.proxy.Proxy: [8979] KeyStore for SSL loaded OK and put host 'secure.adnxs.com' in map with key (secure.adnxs.com) 
+2016/01/25 08:53:08 WARN  - jmeter.protocol.http.proxy.Proxy: [8979] Problem with SSL certificate for 'secure.adnxs.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:53:08 WARN  - jmeter.protocol.http.proxy.Proxy: [9063] Problem with SSL certificate for 'secure.adnxs.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:53:08 WARN  - jmeter.protocol.http.proxy.Proxy: [9064] Problem with SSL certificate for 'secure.adnxs.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:53:10 WARN  - jmeter.protocol.http.proxy.Proxy: [9080] Problem with SSL certificate for 'googleads.g.doubleclick.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/25 08:53:10 WARN  - jmeter.protocol.http.proxy.Proxy: [9079] Problem with SSL certificate for 'connect.facebook.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/25 08:53:10 WARN  - jmeter.protocol.http.proxy.Proxy: [9084] Problem with SSL certificate for 'googleads.g.doubleclick.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/25 08:53:10 WARN  - jmeter.protocol.http.proxy.Proxy: [9083] Problem with SSL certificate for 'googleads.g.doubleclick.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/25 08:53:10 WARN  - jmeter.protocol.http.proxy.Proxy: [9082] Problem with SSL certificate for 'googleads.g.doubleclick.net'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: unknown_ca 
+2016/01/25 08:53:10 WARN  - jmeter.protocol.http.proxy.Proxy: [9091] Problem with SSL certificate for 'connect.facebook.net'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:53:10 WARN  - jmeter.protocol.http.proxy.Proxy: [9092] Problem with SSL certificate for 'connect.facebook.net'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:53:13 WARN  - jmeter.protocol.http.proxy.Proxy: [9097] Problem with SSL certificate for 'syndication.twitter.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:53:37 INFO  - jmeter.protocol.http.proxy.Proxy: [9038] KeyStore for SSL loaded OK and put host 'incoming.telemetry.mozilla.org' in map with key (incoming.telemetry.mozilla.org) 
+2016/01/25 08:53:37 WARN  - jmeter.protocol.http.proxy.Proxy: [9038] Problem with SSL certificate for 'incoming.telemetry.mozilla.org'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
+2016/01/25 08:54:06 WARN  - jmeter.protocol.http.proxy.Proxy: [9098] Problem with SSL certificate for 'self-repair.mozilla.org'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed 
